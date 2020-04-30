@@ -1,2 +1,2 @@
 # Numerical-Methods-Algorithms
-Repository for my small numerical methods programs
+Repository for my simple numerical methods programs
